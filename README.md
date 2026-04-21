@@ -3,7 +3,7 @@ Process the molecule_info.h5 to assess Cell, UMI, Dduplication and Library Satur
 
 Needs setup instructions and R libraries required.
 
-Btu the one R script should run.
+But just run the R script (and load required libraries) 
 
  =============================================================================
  scRNA-seq QC Report — 10x Chromium molecule_info.h5
