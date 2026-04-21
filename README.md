@@ -5,9 +5,9 @@ Needs setup instructions and R libraries required.
 
 But just run the R script (and load required libraries) 
 
- =============================================================================
- scRNA-seq QC Report — 10x Chromium molecule_info.h5
- =============================================================================
+
+## scRNA-seq QC Report — 10x Chromium molecule_info.h5
+
  Produces a self-contained HTML report assessing:
    - Cell capture and UMI distributions
    - PCR duplication rate
