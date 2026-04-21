@@ -5,6 +5,7 @@ Needs setup instructions and R libraries required.
 
 But just run the R script (and load required libraries) 
 
+Sample PDF and HTML reports available.
 
 ## scRNA-seq QC Report — 10x Chromium molecule_info.h5
 
