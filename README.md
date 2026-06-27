@@ -1,5 +1,5 @@
 # SingleCell_QC
-Process the molecule_info.h5 to assess Cell, UMI, Dduplication and Library Saturation
+Process the molecule_info.h5 to assess Cell, UMI, Duplication and Library Saturation
 
 Needs setup instructions and R libraries required.
 
